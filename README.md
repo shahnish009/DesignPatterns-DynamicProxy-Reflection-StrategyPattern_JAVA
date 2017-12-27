@@ -33,7 +33,7 @@ Provide list of citations (urls, etc.) from where you have taken code
 1) FileWriter Usage:
 https://www.tutorialspoint.com/java/io/java_io_filewriter.htm
 
-2)BufferedWriter Usage:
+2) BufferedWriter Usage:
 http://www.tutorialspoint.com/java/io/java_io_bufferedwriter.htm
 
 3) Get HashCode of any String:
