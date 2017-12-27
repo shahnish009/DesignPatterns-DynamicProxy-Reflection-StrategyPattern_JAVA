@@ -1,4 +1,4 @@
-# DesignPatterns-StatePattern_JAVA
+# DesignPatterns-DynamicProxy-Reflection-StrategyPattern_JAVA
 
 # By using this code, you agree to appropriate licences
 
